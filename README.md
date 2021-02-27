@@ -4,5 +4,5 @@
 # [My Website](https://hubertben.github.io/Personal-Website/)
 ### Graduate School Candidate, M.S. Computer Science - *Fall, 2021*
 ### Graduation Candidate, B.S. Computer Science - *Spring, 2021*
-#### Interestd in Ai, Genetic Algorithms, Neural Networks, and anything that thinks.
-#### Passionate about Software Development.
+#### Interestd in Artificial Intelligence, Genetic Algorithms, Neural Networks, Machine Learning, and any bot that thinks.
+
