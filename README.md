@@ -5,4 +5,4 @@
 * State University at Oneonta B.S. Computer Science - Spring, 2021
 * Interestd in Artificial Intelligence, Genetic Algorithms, Neural Networks, Machine Learning, and any bot that thinks.
 * My <a href="https://www.codewars.com/users/hubertben">Code Wars</a>
-* Reps's made after Jan 1st, 2022 with have a MOTIV.md file, which is background, motivation and comments, for and about the project
+* Repos made after Jan 1st, 2022 with have a MOTIV.md file, which is background, motivation and comments, for and about the project
