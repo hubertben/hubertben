@@ -2,8 +2,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 <br>
 
-* University of Massachusetts Amherst, M.S. Computer Science - Grad. Cand. Dec, 2022 (In Progress)
-* State University at Oneonta B.S. Computer Science - Spring, 2021
+* University of Massachusetts Amherst, M.S. Computer Science
+* State University at Oneonta B.S. Computer Science
 * My <a href="https://www.codewars.com/users/hubertben">Code Wars</a>
 
 
