@@ -5,4 +5,3 @@
 
 * University of Massachusetts Amherst, M.S. Computer Science
 * State University at Oneonta B.S. Computer Science
-* My <a href="https://www.codewars.com/users/hubertben">Code Wars</a>
