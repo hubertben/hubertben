@@ -7,6 +7,3 @@
 * My <a href="https://www.codewars.com/users/hubertben">Code Wars</a>
 * Turning 💻 -> 🎨
 * I am working on: <a href="https://github.com/hubertben/Logic-Gates-Genetic-Algorithm">Logic-Gates-Genetic-Algorithm</a>
-
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
